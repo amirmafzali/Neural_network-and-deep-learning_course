@@ -1,6 +1,6 @@
 # Neural_network-and-deep-learning_course
 
- I have implemented how the evaluation criterias will be if we change the resolution of cifar10 dataset and train , test the model base on it.
+How the evaluation criterias will be if we change the resolution of cifar10 dataset and train , test the model base on it?
 
 there is two approaches such as TOTV and TVTV.
 
