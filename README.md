@@ -1,8 +1,7 @@
-# Neural_network-and-deep-learning_course
+# Neural_network-and-deep-learning_cours
 
-How the evaluation criterias will be if we change the resolution of cifar10 dataset and train , test the model base on it?
+some projects of neural network and deep learning course:
 
-there is two approaches such as TOTV and TVTV.
+1- Implememation of CNN model for CIFAR10 datset calssification in different resolutions.
 
-TOTV, train model base on the main resolution but test the model by the diffrent resolution.
-TVTV, train and test model base on each resolution.
+2- Implememation of CNN model for Fashion Mnist datset calssification.
