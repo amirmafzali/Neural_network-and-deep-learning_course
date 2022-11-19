@@ -2,6 +2,6 @@
 
 some projects of neural network and deep learning course:
 
-1- Implememation of CNN model for CIFAR10 datset calssification in different resolutions.
+1- implementation of CNN models for CIFAR10 dataset calssification in different resolutions.
 
-2- Implememation of CNN model for Fashion Mnist datset calssification.
+2- implementation of CNN models for Fashion-Mnist dataset calssification.
