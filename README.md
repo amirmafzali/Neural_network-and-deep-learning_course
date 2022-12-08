@@ -7,3 +7,5 @@ Some projects of neural network and deep learning course:
 2- Implementation of CNN models for Fashion-Mnist dataset calssification.
 
 3- Implementation of VGG-19 model transfer learning for skin-lesion classification by HAM10000 dataset 
+
+4- Implementation of YOLOv6 object detection model on custom dataset(Chess dataset)
