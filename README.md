@@ -11,3 +11,5 @@ Some projects of neural network and deep learning course:
 4- Implementation of YOLOv6 object detection model on custom dataset(Chess dataset)
 
 5- Implementation of hybrid CNN-LSTM model for fake news detection on FA-KES dataset
+
+6- Implementation of hybrid CNN-LSTM model for Air‑pollution prediction on Beijing pollution datset
