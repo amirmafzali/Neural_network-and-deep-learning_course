@@ -12,4 +12,6 @@ Some projects of neural network and deep learning course:
 
 5- Implementation of hybrid CNN-LSTM model for fake news detection on FA-KES dataset
 
-6- Implementation of hybrid CNN-LSTM model for Air‑pollution prediction on Beijing pollution datset
+6- Implementation of hybrid CNN-LSTM model for Air‑pollution prediction on Beijing pollution dataset (scaled) 
+
+7- Implementation of hybrid CNN-LSTM model for Air‑pollution prediction on Beijing pollution dataset (non scaled) 
