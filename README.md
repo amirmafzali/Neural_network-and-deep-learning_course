@@ -2,7 +2,7 @@
 
 Some projects of neural network and deep learning course:
 
-1- Implementation of CNN models for CIFAR10 dataset calssification in different resolutions.
+1- Implementation of CNN models for CIFAR-10 dataset calssification in different resolutions.
 
 2- Implementation of CNN models for Fashion-Mnist dataset calssification.
 
@@ -15,3 +15,7 @@ Some projects of neural network and deep learning course:
 6- Implementation of hybrid CNN-LSTM model for Air‑pollution prediction on Beijing pollution dataset (scaled) 
 
 7- Implementation of hybrid CNN-LSTM model for Air‑pollution prediction on Beijing pollution dataset (non scaled) 
+
+8- Implementation of Semantic segmentation by new transformer model called "BEiT" on scene_parse_150 dataset
+
+9- Implementation of image classification by new transformer model called "BEiT" on CIFAR-10 dataset
