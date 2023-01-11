@@ -21,3 +21,5 @@ Some projects of neural network and deep learning course:
 9- Implementation of Semantic segmentation by new transformer called "BEiT" on scene_parse_150 dataset
 
 10- Implementation of image classification by new transformer called "BEiT" on CIFAR-10 dataset
+
+11- Implementation of DCGAN model for producing finger number image dataset
