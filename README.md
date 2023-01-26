@@ -22,4 +22,6 @@ Some projects of neural network and deep learning course:
 
 10- Implementation of image classification by new transformer called "BEiT" on CIFAR-10 dataset
 
-11- Implementation of DCGAN model for producing finger number image dataset
+11- Implementation of DC-GAN model for producing finger number image dataset
+
+12- Implementation of AC-GAN model for producing finger number image dataset
