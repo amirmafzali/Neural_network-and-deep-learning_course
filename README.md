@@ -25,3 +25,5 @@ Some projects of neural network and deep learning course:
 11- Implementation of DC-GAN model for producing finger number image dataset
 
 12- Implementation of AC-GAN model for producing finger number image dataset
+
+13- Implementation of W-GAN model for producing finger number image dataset
